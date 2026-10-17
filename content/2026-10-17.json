@@ -1,0 +1,226 @@
+{
+ "date": "2026-10-17",
+ "themes": [
+  {
+   "key": "A",
+   "category": "candidature",
+   "topic": "relancer-un-recruteur",
+   "kick": "ÉTAPE",
+   "style": "bureau",
+   "eyebrow": "Candidature · la relance",
+   "sub": "Quand relancer, quoi écrire, et quand passer à la suite. Sans harceler personne.",
+   "v_hook": "Toujours [[aucune réponse]] à ta candidature ?",
+   "v_hook_sub": "Relance, mais pas n'importe comment.",
+   "w_title": "Relancer un recruteur [[sans le saouler]]",
+   "thumb_text": "Pas de\nréponse ?\n[[Relance.]]",
+   "pin_headline": "Relancer après une candidature : [[le bon moment]]",
+   "pin_foot": "Quand relancer, quoi écrire",
+   "cta_headline": "Garde tes candidatures\n[[au même endroit.]]",
+   "chips": [
+    "Suivi des candidatures",
+    "Comparaison avec l'annonce",
+    "PDF et Word"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "Laisse passer une à deux semaines",
+     "short": "Attends une à deux semaines",
+     "body": "Sauf si l'annonce donne une date de réponse, compte environ une à deux semaines avant de relancer.",
+     "body_short": "Sauf date annoncée, compte une à deux semaines.",
+     "fix": "Si l'annonce indique un délai ou une date de clôture, attends qu'elle soit passée.",
+     "fix_short": "Respecte le délai annoncé s'il y en a un.",
+     "why": "Relancer le lendemain donne l'impression que tu ne laisses pas le temps de lire. Trop attendre, c'est risquer que le poste soit pourvu. Une à deux semaines, c'est un repère courant."
+    },
+    {
+     "n": "02",
+     "title": "Retrouve où et quand tu as postulé",
+     "short": "Retrouve où et quand tu as postulé",
+     "body": "Avant de relancer, note l'entreprise, le poste, la date d'envoi et le nom du contact s'il y en a un.",
+     "body_short": "Entreprise, poste, date d'envoi, contact.",
+     "card": "Chargée de recrutement",
+     "fix": "Garde toutes tes candidatures au même endroit pour savoir qui relancer, et quand.",
+     "fix_short": "Garde tes candidatures au même endroit.",
+     "why": "Dix candidatures envoyées, et on ne sait plus qui a répondu. Avec un suivi à jour, tu relances la bonne personne, pour le bon poste, au bon moment."
+    },
+    {
+     "n": "03",
+     "title": "Écris un message court et poli",
+     "short": "Un message court et poli",
+     "body": "Rappelle le poste et la date de ta candidature, redis ton intérêt en une phrase. Pas de reproche.",
+     "body_short": "Le poste, la date, ton intérêt. Pas de reproche.",
+     "example": {
+      "bad": "Vous l'avez reçu ???",
+      "good": "Le poste m'intéresse toujours",
+      "badtag": "NON",
+      "goodtag": "OUI"
+     },
+     "fix": "Quatre ou cinq lignes suffisent. Tu peux rejoindre ton CV en PDF pour éviter qu'on le cherche.",
+     "fix_short": "Quatre ou cinq lignes, ton CV en PDF joint.",
+     "why": "Le recruteur reçoit beaucoup de messages. Un mail court, qui rappelle le poste et la date, se traite vite. Un ton agacé, lui, laisse un mauvais souvenir."
+    },
+    {
+     "n": "04",
+     "title": "Relance une fois, puis passe à la suite",
+     "short": "Relance une fois, puis avance",
+     "body": "Sans réponse après ta relance, une deuxième au plus. Ensuite, mets ton énergie dans d'autres offres.",
+     "body_short": "Une relance, deux au plus. Puis d'autres offres.",
+     "fixlab": "POURQUOI",
+     "fix": "Un silence ne dit rien de ta valeur. Continue de postuler pendant que tu attends.",
+     "fix_short": "Continue de postuler pendant que tu attends.",
+     "why": "Relancer trois ou quatre fois n'aide pas, et ton temps compte. Pendant que tu attends une réponse, d'autres offres méritent ta candidature."
+    }
+   ],
+   "captions": {
+    "x": "Pas de nouvelles depuis ta candidature ?\n\nAttends une à deux semaines (ou la date annoncée), puis envoie un message court : le poste, la date, ton intérêt.\n\nUne relance, deux au plus. Ensuite, place aux autres offres.\n#Candidature",
+    "bluesky": "Relancer après une candidature, en 4 temps :\n\n1. attendre une à deux semaines, ou la date annoncée\n2. retrouver le poste, la date, le contact\n3. écrire 4 ou 5 lignes polies\n4. une relance, deux au plus, puis passer à la suite",
+    "threads": "Tu as postulé il y a dix jours et toujours rien ?\n\nRelancer, ce n'est pas déranger. C'est montrer que le poste t'intéresse vraiment.\n\nCe qui marche :\nun message court, poli, qui rappelle le poste et la date de ta candidature.\n\nCe qui ne marche pas :\n« Vous avez reçu mon CV ??? »\n\nEt après une relance sans réponse, tu passes à la suite. Ton temps compte aussi.\n\nTu relances, toi, ou tu attends ?",
+    "linkedin": "« Je n'ai pas de réponse, est-ce que je relance ? »\n\nOui, et ça se prépare. 4 étapes simples :\n\n1. Laisser passer une à deux semaines\nSauf si l'annonce donne une date de réponse ou de clôture : dans ce cas, attendre qu'elle soit passée.\n\n2. Retrouver où et quand tu as postulé\nEntreprise, poste, date d'envoi, nom du contact. Quand on envoie beaucoup de candidatures, c'est le premier truc qu'on perd.\n\n3. Écrire un message court et poli\nLe poste, la date de ta candidature, ton intérêt en une phrase. Ton CV en PDF en pièce jointe pour éviter qu'on le cherche.\n\n4. Relancer une fois, deux au plus\nEnsuite, mettre son énergie dans d'autres offres. Un silence ne dit rien de ta valeur.\n\nEt vous, côté recrutement : une relance polie, ça vous aide ou ça vous encombre ?\n\n#Candidature #RechercheDEmploi #Recrutement",
+    "linkedin_comment": "Pour garder toutes tes candidatures au même endroit, il y a le suivi des candidatures sur jobnow.fr",
+    "facebook_post": "Toujours pas de réponse à ta candidature ? 📭\n\nAvant de relancer :\n⏳ attends une à deux semaines, ou la date indiquée dans l'annonce\n🗂️ retrouve le poste, la date d'envoi et le contact\n✉️ écris 4 ou 5 lignes polies, ton CV en PDF joint\n🔁 une relance, deux au plus, puis passe à d'autres offres\n\nTu préfères relancer par mail ou par téléphone ?\n\n👉 jobnow.fr",
+    "facebook_reel": "Relancer un recruteur sans le saouler : quand le faire et quoi écrire 👇\n\nTes candidatures au même endroit sur jobnow.fr",
+    "facebook_reel_title": "Relancer un recruteur : quand et comment",
+    "instagram_reel": "Ta candidature est partie dans le vide ? 📭 Avant de lâcher l'affaire, relance. Le bon moment et le bon message, en 4 étapes 👇\n\njobnow.fr\n\n#candidature #rechercheemploi #emploi #conseilsemploi #recrutement",
+    "tiktok": "Pas de réponse à ta candidature ? Voilà quand relancer, et quoi écrire ✉️ #candidature #rechercheemploi #emploi #conseilsemploi",
+    "tiktok_title": "Relancer un recruteur sans le saouler",
+    "youtube_long_title": "Relancer un recruteur après une candidature : quand et quoi écrire",
+    "youtube_long_intro": "Tu as envoyé ta candidature et tu n'as pas de nouvelles ? Voici comment relancer en 4 étapes : choisir le bon moment, retrouver les infos de ta candidature, écrire un message court et savoir quand passer à la suite.",
+    "youtube_long_outro": "Garde toutes tes candidatures au même endroit avec le suivi des candidatures : https://jobnow.fr\nUn CV propre, sans y passer la soirée.\n\n#candidature #rechercheemploi #emploi",
+    "youtube_tags": [
+     "relancer un recruteur",
+     "relance candidature",
+     "mail de relance",
+     "candidature",
+     "recherche d'emploi",
+     "suivi des candidatures",
+     "jobnow"
+    ],
+    "youtube_short_title": "Pas de réponse à ta candidature ? Relance comme ça #shorts",
+    "youtube_short_text": "Une à deux semaines d'attente, un message court et poli, une relance au plus deux. Suis tes candidatures sur https://jobnow.fr\n\n#candidature #emploi #rechercheemploi",
+    "pinterest_title": "Relancer un recruteur après une candidature : quand et comment",
+    "pinterest_text": "Comment relancer après une candidature sans réponse : attendre une à deux semaines ou la date annoncée, retrouver le poste et la date d'envoi, écrire un message court et poli, puis passer à d'autres offres après une ou deux relances. Suis tes candidatures sur jobnow.fr"
+   }
+  },
+  {
+   "key": "B",
+   "category": "situation",
+   "topic": "premier-emploi-sans-experience",
+   "kick": "ASTUCE",
+   "style": "riso",
+   "eyebrow": "Premier CV · sans expérience",
+   "sub": "Pas encore d'expérience pro ? Tu as quand même de quoi remplir une page, et la bonne.",
+   "v_hook": "« Je n'ai rien à mettre sur mon CV. » [[Si.]]",
+   "v_hook_sub": "6 pistes pour un premier CV sans expérience.",
+   "w_title": "Un CV [[sans expérience]] : quoi mettre",
+   "thumb_text": "Premier CV\nsans expé ?\n[[Pas vide.]]",
+   "pin_headline": "Premier CV [[sans expérience]] : quoi mettre",
+   "pin_foot": "6 pistes pour remplir la page",
+   "cta_headline": "Ton premier CV,\n[[sans y passer la soirée.]]",
+   "chips": [
+    "14 modèles",
+    "Aperçu A4 en direct",
+    "Export PDF et Word"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "Mets ta formation en avant",
+     "short": "Mets ta formation en avant",
+     "body": "Sans expérience, ta formation passe en haut. Ajoute les matières, projets ou mémoire liés au poste visé.",
+     "body_short": "Formation en haut, avec les projets liés au poste.",
+     "fix": "Sous ton diplôme, deux ou trois lignes sur ce que tu as fait, pas juste l'intitulé.",
+     "fix_short": "Deux ou trois lignes sous le diplôme.",
+     "why": "Un intitulé de diplôme dit peu de choses. Un projet de groupe, un mémoire, une matière en lien avec le poste montrent ce que tu sais déjà faire concrètement."
+    },
+    {
+     "n": "02",
+     "title": "Compte tes stages et ton alternance",
+     "short": "Tes stages comptent",
+     "body": "Un stage, même court, est une expérience. Décris tes missions comme pour un emploi.",
+     "body_short": "Un stage, même court, est une expérience.",
+     "fix": "Une ligne par mission, avec un verbe d'action : j'ai préparé, j'ai accueilli, j'ai suivi.",
+     "fix_short": "Une ligne par mission, un verbe d'action.",
+     "why": "Beaucoup de premiers CV oublient le stage de troisième année ou le résument en un mot. Pourtant, c'est la preuve que tu as déjà travaillé dans un vrai cadre."
+    },
+    {
+     "n": "03",
+     "title": "N'oublie pas les jobs étudiants",
+     "short": "Les jobs étudiants aussi",
+     "body": "Serveur, caissière, baby-sitting, saison d'été : ces jobs montrent que tu es fiable et que tu tiens un rythme.",
+     "body_short": "Ils montrent que tu es fiable et que tu tiens un rythme.",
+     "example": {
+      "bad": "Job d'été",
+      "good": "Serveur saisonnier, 2 mois",
+      "badtag": "AVANT",
+      "goodtag": "APRÈS"
+     },
+     "fix": "Précise le poste, la durée et ce que tu faisais, même en une ligne.",
+     "fix_short": "Poste, durée, ce que tu faisais.",
+     "why": "Ce n'est pas le métier visé ? Peu importe. Ponctualité, contact client, travail en équipe sous pression : un recruteur sait ce que ces jobs demandent."
+    },
+    {
+     "n": "04",
+     "title": "Ajoute projets perso et bénévolat",
+     "short": "Projets perso et bénévolat",
+     "body": "Une association, un club, un site que tu as monté, un événement organisé : ça compte aussi.",
+     "body_short": "Association, club, projet perso : ça compte.",
+     "fix": "Fais-en une rubrique à part, avec ton rôle exact et ce que tu as obtenu.",
+     "fix_short": "Une rubrique à part, avec ton rôle exact.",
+     "why": "Trésorier d'une asso, coach d'une équipe de jeunes, créateur d'une chaîne : ce sont des responsabilités réelles, même sans contrat de travail."
+    },
+    {
+     "n": "05",
+     "title": "Liste des compétences que tu peux prouver",
+     "short": "Des compétences que tu peux prouver",
+     "body": "Langues, logiciels, permis : indique un niveau honnête, celui que tu pourrais montrer en entretien.",
+     "body_short": "Langues, logiciels, permis, avec un niveau honnête.",
+     "fixlab": "À VÉRIFIER",
+     "fix": "Pour chaque compétence, demande-toi : est-ce que je peux en donner un exemple ?",
+     "fix_short": "Pour chacune, peux-tu donner un exemple ?",
+     "why": "« Anglais courant » sera peut-être testé en entretien. Mieux vaut un niveau modeste et vrai qu'un niveau flatteur qui ne tient pas trente secondes."
+    },
+    {
+     "n": "06",
+     "title": "Vise un poste dès le titre",
+     "short": "Vise un poste dès le titre",
+     "body": "Un titre précis, le poste que tu cherches, montre que tu sais où tu vas, même pour un premier emploi.",
+     "body_short": "Un titre précis montre que tu sais où tu vas.",
+     "card": "Assistant administratif junior",
+     "fix": "Reprends l'intitulé de l'annonce si ton profil y correspond, plutôt que « Étudiant ».",
+     "fix_short": "L'intitulé de l'annonce plutôt que « Étudiant ».",
+     "why": "« Étudiant en recherche d'emploi » ne dit pas ce que tu veux faire. Un titre aligné sur l'annonce aide le recruteur à te situer en une seconde."
+    }
+   ],
+   "captions": {
+    "x": "Premier CV sans expérience pro ? Il te reste :\n\n• ta formation et tes projets\n• tes stages, même courts\n• tes jobs étudiants\n• ton bénévolat\n• des compétences que tu peux prouver\n\nLa page se remplit plus vite que tu crois.\n#PremierEmploi",
+    "bluesky": "« Je n'ai rien à mettre sur mon CV. »\n\nTu as sûrement une formation, un stage, un job d'été, une asso, une langue, un logiciel que tu maîtrises.\n\nLe premier CV, c'est surtout savoir présenter ça avec un titre qui vise un poste précis.",
+    "threads": "Ton premier CV te paraît vide ? Fais l'inventaire.\n\nLe stage de fin d'année ? Une expérience.\nL'été passé en salle dans un resto ? De la rigueur et du contact client.\nLa trésorerie de ton asso ? Une vraie responsabilité.\nTon anglais, ton permis, Excel ? Des compétences, si tu peux les prouver.\n\nAjoute un titre qui vise un poste précis, et la page n'est plus vide du tout.\n\nC'était quoi, ton tout premier job ?",
+    "linkedin": "Faire un CV pour un premier emploi, c'est souvent partir d'une impression : « je n'ai rien à mettre ».\n\nEn réalité, il y a presque toujours de quoi remplir une page. 6 pistes :\n\n1. La formation en haut, avec les projets, le mémoire ou les matières liés au poste.\n2. Les stages et l'alternance, décrits comme de vrais emplois, mission par mission.\n3. Les jobs étudiants : service, caisse, baby-sitting, saison. Ils montrent la fiabilité et le rythme.\n4. Les projets perso et le bénévolat, avec le rôle exact.\n5. Des compétences prouvables : langues, logiciels, permis, avec un niveau honnête.\n6. Un titre qui vise un poste précis plutôt que « Étudiant ».\n\nSi tu recrutes des juniors : qu'est-ce que tu regardes en premier sur un CV sans expérience ?\n\n#PremierEmploi #CV #JeunesDiplômés",
+    "linkedin_comment": "Pour construire ce premier CV avec l'aperçu A4 en direct : jobnow.fr",
+    "facebook_post": "Pas encore d'expérience pro ? Ton CV n'est pas vide pour autant 💡\n\nVoilà ce que tu peux y mettre :\n🎓 ta formation, avec tes projets\n🏢 tes stages, même courts\n☕ tes jobs étudiants et saisonniers\n🤝 ton bénévolat et tes projets perso\n🗣️ tes langues et logiciels, niveau honnête\n🎯 un titre qui vise un poste précis\n\nIdéal à partager à quelqu'un qui cherche son premier job.\n\n👉 jobnow.fr\n#PremierEmploi",
+    "facebook_reel": "Zéro expérience pro, mais pas zéro CV. 6 choses à mettre sur ton premier CV 👇\n\njobnow.fr",
+    "facebook_reel_title": "Premier CV sans expérience : quoi mettre",
+    "instagram_reel": "« Je n'ai rien à mettre sur mon CV. » Si, et plus que tu crois 👀 6 pistes pour ton premier CV sans expérience.\n\nTon CV sur jobnow.fr\n\n#premieremploi #cv #etudiant #jobetudiant #conseilscv #alternance",
+    "tiktok": "Premier CV et zéro expérience ? Voilà quoi mettre à la place 🎓 #premieremploi #cv #etudiant #jobetudiant",
+    "tiktok_title": "Premier CV sans expérience : quoi mettre",
+    "youtube_long_title": "CV sans expérience : 6 choses à mettre pour ton premier emploi",
+    "youtube_long_intro": "Tu cherches ton premier emploi et ton CV te paraît vide ? Voici 6 pistes pour le remplir avec ce que tu as déjà : formation, stages, jobs étudiants, bénévolat, compétences prouvables et un titre bien choisi.",
+    "youtube_long_outro": "Fais ton premier CV avec 14 modèles, aperçu A4 en direct et export PDF ou Word : https://jobnow.fr\nUn CV propre, sans y passer la soirée.\n\n#premieremploi #cv #etudiant",
+    "youtube_tags": [
+     "cv sans expérience",
+     "premier cv",
+     "premier emploi",
+     "cv étudiant",
+     "job étudiant",
+     "faire un cv",
+     "conseils cv",
+     "jobnow"
+    ],
+    "youtube_short_title": "Rien à mettre sur ton premier CV ? Si. #shorts",
+    "youtube_short_text": "Formation, stages, jobs étudiants, bénévolat, compétences : 6 pistes pour un premier CV sans expérience. https://jobnow.fr\n\n#premieremploi #cv #etudiant",
+    "pinterest_title": "CV sans expérience : quoi mettre sur un premier CV",
+    "pinterest_text": "6 pistes pour un premier CV sans expérience professionnelle : mettre la formation en avant avec ses projets, détailler stages et alternance, valoriser les jobs étudiants, ajouter bénévolat et projets perso, lister des compétences prouvables et choisir un titre qui vise un poste. Crée ton CV sur jobnow.fr"
+   }
+  }
+ ]
+}

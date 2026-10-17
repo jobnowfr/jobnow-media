@@ -1,0 +1,50 @@
+[
+ {
+  "date": "2026-10-15",
+  "key": "A",
+  "category": "erreurs",
+  "topic": "erreurs-qui-font-jeter-un-cv",
+  "title": "5 erreurs qui font jeter ton CV",
+  "style": "bleu"
+ },
+ {
+  "date": "2026-10-15",
+  "key": "B",
+  "category": "methode",
+  "topic": "adapter-son-cv-a-une-annonce",
+  "title": "Adapter son CV à une annonce en 10 minutes",
+  "style": "bleu"
+ },
+ {
+  "date": "2026-10-16",
+  "key": "A",
+  "category": "mythes",
+  "topic": "mythes-photo-et-infos-perso",
+  "title": "4 idées reçues sur les infos perso du CV",
+  "style": "bleu"
+ },
+ {
+  "date": "2026-10-16",
+  "key": "B",
+  "category": "produit",
+  "topic": "faire-son-cv-sur-jobnow",
+  "title": "Faire son CV sur JobNow en 5 étapes",
+  "style": "bleu"
+ },
+ {
+  "date": "2026-10-17",
+  "key": "A",
+  "category": "candidature",
+  "topic": "relancer-un-recruteur",
+  "title": "Relancer un recruteur sans le saouler",
+  "style": "bureau"
+ },
+ {
+  "date": "2026-10-17",
+  "key": "B",
+  "category": "situation",
+  "topic": "premier-emploi-sans-experience",
+  "title": "Premier CV sans expérience : quoi mettre",
+  "style": "riso"
+ }
+]

@@ -1,0 +1,234 @@
+{
+ "date": "2026-10-15",
+ "themes": [
+  {
+   "key": "A",
+   "category": "erreurs",
+   "topic": "erreurs-qui-font-jeter-un-cv",
+   "kick": "ERREUR",
+   "eyebrow": "CV · les erreurs à éviter",
+   "headline": "5 erreurs qui font [[jeter ton CV]] en quelques secondes.",
+   "sub": "Le recruteur survole d'abord. Voilà ce qui le fait passer au suivant.",
+   "v_hook": "Ton CV finit à la [[poubelle]] en quelques secondes ?",
+   "v_hook_sub": "Les 5 erreurs qui font décrocher un recruteur.",
+   "w_title": "5 erreurs qui font [[jeter ton CV]]",
+   "thumb_text": "5 erreurs\nqui font\n[[jeter ton CV]]",
+   "pin_headline": "5 erreurs qui font [[jeter ton CV]]",
+   "pin_foot": "Enregistre pour ta prochaine candidature",
+   "cta_headline": "Un CV propre,\n[[sans y passer la soirée.]]",
+   "cta_note": "Enregistre ce post pour ta prochaine candidature.",
+   "chips": [
+    "14 modèles",
+    "Aperçu A4 en direct",
+    "PDF et Word"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "Un CV trop long",
+     "short": "Un CV trop long",
+     "body": "Trois pages pour deux ans d'expérience : le recruteur ne lira pas la suite.",
+     "body_short": "Trois pages pour deux ans d'expérience ? La suite ne sera pas lue.",
+     "fix": "Une page tant que tu as moins de 10 ans d'expérience. Deux au maximum ensuite.",
+     "fix_short": "Une page si moins de 10 ans d'expérience.",
+     "why": "Un recruteur reçoit des dizaines de CV pour un seul poste. Il cherche l'essentiel en un coup d'œil, pas un roman."
+    },
+    {
+     "n": "02",
+     "title": "Une adresse mail pas pro",
+     "short": "Une adresse mail pas pro",
+     "body": "C'est ta première ligne de contact. Un pseudo ou une date de naissance, et le sérieux en prend un coup.",
+     "body_short": "Un pseudo ou une date de naissance, et le sérieux en prend un coup.",
+     "example": {
+      "bad": "kevin.du69@hotmail.fr",
+      "good": "prenom.nom@gmail.com"
+     },
+     "fix": "prenom.nom@ sur une adresse réservée à tes candidatures.",
+     "fix_short": "prenom.nom@, rien d'autre.",
+     "why": "Ton adresse mail apparaît en haut du CV et dans la boîte du recruteur. C'est la première impression avant même d'ouvrir le fichier."
+    },
+    {
+     "n": "03",
+     "title": "Des fautes d'orthographe",
+     "short": "Des fautes d'orthographe",
+     "body": "Une seule faute peut suffire à donner une impression de négligence.",
+     "body_short": "Une seule faute peut suffire à donner une impression de négligence.",
+     "fix": "Relis à voix haute, puis fais relire par quelqu'un d'autre.",
+     "fix_short": "Relis à voix haute, puis fais relire.",
+     "why": "Le recruteur ne te connaît pas encore. Il juge ton sérieux sur ce qu'il a sous les yeux, et une faute se remarque tout de suite."
+    },
+    {
+     "n": "04",
+     "title": "Le même CV pour toutes les offres",
+     "short": "Le même CV partout",
+     "body": "Un CV générique ne parle à personne. Le recruteur doit voir tout de suite que tu corresponds.",
+     "body_short": "Un CV générique ne parle à personne.",
+     "card": "Chargée de projet marketing",
+     "fix": "Reprends l'intitulé du poste et les mots-clés de l'annonce.",
+     "fix_short": "Reprends l'intitulé et les mots-clés de l'annonce.",
+     "why": "Chaque annonce a son vocabulaire. Si ton CV ne reprend pas ses mots, le lien avec le poste n'est pas évident pour le recruteur."
+    },
+    {
+     "n": "05",
+     "title": "Des tâches au lieu de résultats",
+     "short": "Des tâches au lieu de résultats",
+     "body": "Une liste de tâches ne dit pas ce que tu as accompli.",
+     "body_short": "Une liste de tâches ne dit pas ce que tu as accompli.",
+     "example": {
+      "bad": "Gestion des réseaux sociaux",
+      "good": "Lancement de 3 comptes, +2 000 abonnés en 6 mois",
+      "badtag": "AVANT",
+      "goodtag": "APRÈS"
+     },
+     "fix": "Un verbe d'action, un chiffre, un résultat.",
+     "fix_short": "Un verbe, un chiffre, un résultat.",
+     "why": "Deux candidats peuvent avoir eu les mêmes missions. Ce qui les départage, c'est ce qu'ils ont obtenu."
+    }
+   ],
+   "captions": {
+    "x": "5 erreurs qui font jeter un CV en quelques secondes :\n\n• 3 pages pour 2 ans d'expérience\n• une adresse mail pas pro\n• des fautes d'orthographe\n• le même CV envoyé partout\n• des tâches au lieu de résultats\n\nCorrige-les avant ta prochaine candidature.\n#CV #emploi",
+    "bluesky": "Les 5 erreurs qui font jeter un CV en quelques secondes :\n\n1. 3 pages pour 2 ans d'expérience\n2. une adresse mail pas pro\n3. des fautes d'orthographe\n4. le même CV envoyé à toutes les offres\n5. des tâches au lieu de résultats\n\nCorrige-les avant ta prochaine candidature.",
+    "threads": "Les 5 erreurs qui font jeter un CV en quelques secondes :\n\n1. Trop long. Une page suffit tant que t'as moins de 10 ans d'expérience.\n2. Une adresse mail pas pro. prenom.nom@ et rien d'autre.\n3. Des fautes. Relis à voix haute ou fais relire.\n4. Le même CV pour toutes les offres. Adapte le titre et les mots-clés à chaque annonce.\n5. Des tâches au lieu de résultats. « Gestion des réseaux sociaux » ne dit rien, « +2 000 abonnés en 6 mois » si.",
+    "linkedin": "Un recruteur passe quelques secondes sur un CV avant de décider s'il le lit vraiment.\n\nVoici les 5 erreurs qui le font passer au suivant :\n\n1. Un CV trop long\nUne page suffit tant que tu as moins de 10 ans d'expérience. Au-delà, deux pages maximum.\n\n2. Une adresse mail pas professionnelle\nprenom.nom@ et rien d'autre. Les pseudos et les années de naissance, on oublie.\n\n3. Des fautes d'orthographe\nUne seule suffit à donner une impression de négligence. Relis à voix haute, ou fais relire.\n\n4. Le même CV pour toutes les offres\nReprends l'intitulé du poste et les mots-clés de l'annonce. Le recruteur doit voir tout de suite que tu corresponds.\n\n5. Des tâches au lieu de résultats\n« Gestion des réseaux sociaux » ne dit rien.\n« Lancement de 3 comptes, +2 000 abonnés en 6 mois » montre ce que tu sais faire.\n\nLaquelle de ces erreurs tu vois le plus souvent ?\n\n#CV #RechercheDEmploi #Recrutement",
+    "linkedin_comment": "Pour mettre tout ça en page proprement : jobnow.fr",
+    "facebook_post": "Les 5 erreurs qui font jeter un CV en quelques secondes 👇\n\n1️⃣ Un CV trop long : une page suffit tant que tu as moins de 10 ans d'expérience.\n2️⃣ Une adresse mail pas pro : prenom.nom@, c'est tout.\n3️⃣ Des fautes d'orthographe : relis à voix haute ou fais relire.\n4️⃣ Le même CV pour toutes les offres : reprends l'intitulé du poste et les mots-clés de l'annonce.\n5️⃣ Des tâches au lieu de résultats : « +2 000 abonnés en 6 mois » parle plus que « gestion des réseaux sociaux ».\n\nTon CV en fait combien ? 😅\n\nUn CV propre, sans y passer la soirée 👉 jobnow.fr",
+    "facebook_reel": "Ton CV finit à la poubelle en quelques secondes ? Voilà les 5 erreurs qui font décrocher un recruteur 👇\n\nUn CV propre, sans y passer la soirée : jobnow.fr",
+    "facebook_reel_title": "5 erreurs qui font jeter ton CV",
+    "instagram_post": "5 erreurs qui font jeter ton CV en quelques secondes 👇\n\nGlisse pour voir comment corriger chacune, et enregistre le post pour ta prochaine candidature.\n\nUn CV propre, sans y passer la soirée : jobnow.fr\n\n#cv #rechercheemploi #emploi #candidature #conseilscv #recrutement",
+    "instagram_reel": "Ton CV finit à la poubelle en quelques secondes ? Voilà les 5 erreurs qui font décrocher un recruteur. Laquelle tu fais ? 👇\n\nUn CV propre, sans y passer la soirée : jobnow.fr\n\n#cv #emploi #rechercheemploi #conseilscv #candidature",
+    "tiktok": "5 erreurs qui font jeter ton CV en quelques secondes. Laquelle tu fais ? 👇 #cv #emploi #rechercheemploi #conseilscv #candidature",
+    "tiktok_title": "5 erreurs qui font jeter ton CV",
+    "youtube_long_title": "5 erreurs qui font jeter ton CV (et comment les corriger)",
+    "youtube_long_intro": "Un recruteur survole d'abord ton CV. Voici les 5 erreurs qui le font passer au suivant, et comment corriger chacune.",
+    "youtube_long_outro": "Crée un CV propre, sans y passer la soirée : https://jobnow.fr\n14 modèles, aperçu A4 en direct, export PDF et Word.\n\n#cv #rechercheemploi #emploi",
+    "youtube_tags": [
+     "cv",
+     "curriculum vitae",
+     "faire un cv",
+     "erreurs cv",
+     "recherche d'emploi",
+     "candidature",
+     "conseils cv",
+     "jobnow"
+    ],
+    "youtube_short_title": "5 erreurs qui font jeter ton CV #shorts",
+    "youtube_short_text": "Les 5 erreurs qui font décrocher un recruteur, et comment les corriger. Un CV propre, sans y passer la soirée : https://jobnow.fr\n\n#cv #emploi #rechercheemploi",
+    "pinterest_title": "5 erreurs qui font jeter ton CV",
+    "pinterest_text": "Les 5 erreurs à éviter sur ton CV, et comment corriger chacune : un CV trop long, une adresse mail pas pro, des fautes, le même CV partout, des tâches au lieu de résultats. Crée un CV propre sur jobnow.fr"
+   }
+  },
+  {
+   "key": "B",
+   "category": "methode",
+   "topic": "adapter-son-cv-a-une-annonce",
+   "kick": "ÉTAPE",
+   "eyebrow": "Méthode · 10 minutes",
+   "headline": "Adapte ton CV à [[chaque annonce.]]",
+   "sub": "Même parcours, autre angle. La méthode en 5 étapes.",
+   "v_hook": "Le même CV pour 50 offres ? [[Mauvaise idée.]]",
+   "v_hook_sub": "Adapte-le à chaque annonce en 10 minutes.",
+   "w_title": "Adapter ton CV à [[chaque annonce]] en 10 minutes",
+   "thumb_text": "Ton CV\n[[adapté]] à\nchaque annonce",
+   "pin_headline": "Adapter son CV à [[une annonce]] en 10 minutes",
+   "pin_foot": "La méthode en 5 étapes",
+   "cta_headline": "Compare ton CV avec l'annonce,\n[[puis exporte-le.]]",
+   "cta_note": "Enregistre ce post pour ta prochaine candidature.",
+   "chips": [
+    "Comparaison avec l'annonce",
+    "PDF et Word",
+    "14 modèles"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "Surligne les mots-clés",
+     "short": "Surligne les mots-clés de l'annonce",
+     "body": "Compétences, outils, qualités : repère tout ce que l'annonce répète.",
+     "body_short": "Compétences, outils, qualités : tout ce que l'annonce répète.",
+     "fix": "Ce sont les mots que le recruteur cherche en lisant ton CV.",
+     "fixlab": "POURQUOI",
+     "fix_short": "Compétences, outils, qualités.",
+     "why": "Une annonce insiste toujours sur quelques points clés. Les repérer, c'est savoir quoi mettre en avant."
+    },
+    {
+     "n": "02",
+     "title": "Reprends l'intitulé exact du poste",
+     "short": "Reprends l'intitulé exact du poste",
+     "body": "Si l'annonce dit « Chargée de projet marketing », ton titre dit pareil.",
+     "body_short": "Ton titre de CV = l'intitulé de l'annonce.",
+     "card": "Chargée de projet marketing",
+     "fix": "Le titre est la première chose lue. Il doit répondre à l'annonce.",
+     "fixlab": "POURQUOI",
+     "fix_short": "Ton titre = l'intitulé de l'annonce.",
+     "why": "Le titre est lu avant tout le reste. S'il reprend l'intitulé, le recruteur sait tout de suite pour quel poste tu postules."
+    },
+    {
+     "n": "03",
+     "title": "Mets en avant l'expérience la plus proche",
+     "short": "Mets en avant l'expérience la plus proche",
+     "body": "Plus de lignes pour ce qui colle à l'annonce, moins pour le reste.",
+     "body_short": "Plus de lignes pour ce qui colle, moins pour le reste.",
+     "fix": "Développe ce qui sert ce poste, résume ce qui ne sert pas.",
+     "fix_short": "Développe ce qui colle, résume le reste.",
+     "why": "L'ordre chronologique ne bouge pas, mais la place accordée à chaque expérience, si."
+    },
+    {
+     "n": "04",
+     "title": "Reprends leur vocabulaire",
+     "short": "Reprends leur vocabulaire",
+     "body": "Ils écrivent « gestion de projet » ? Écris « gestion de projet », pas « coordination ».",
+     "body_short": "Leurs mots, pas des synonymes.",
+     "example": {
+      "bad": "Coordination des opérations",
+      "good": "Gestion de projet",
+      "badtag": "TOI",
+      "goodtag": "ANNONCE"
+     },
+     "fix": "Leurs mots dans tes missions, sans copier-coller des phrases entières.",
+     "fix_short": "Leurs mots, sans copier-coller.",
+     "why": "Le recruteur, et parfois un logiciel de tri, cherche les termes exacts de l'annonce."
+    },
+    {
+     "n": "05",
+     "title": "Vérifie chaque exigence",
+     "short": "Vérifie chaque exigence",
+     "body": "Chaque critère de l'annonce doit apparaître au moins une fois dans ton CV.",
+     "body_short": "Chaque critère doit apparaître au moins une fois.",
+     "fix": "Relis l'annonce ligne par ligne et coche ce que ton CV couvre.",
+     "fix_short": "Coche chaque critère de l'annonce.",
+     "why": "Un critère oublié, c'est un doute en plus pour le recruteur. Mieux vaut le lever directement sur le CV."
+    }
+   ],
+   "captions": {
+    "x": "Adapter ton CV à une annonce en 10 minutes :\n\n1. surligne les mots-clés de l'annonce\n2. mets l'intitulé exact du poste en titre\n3. remonte l'expérience la plus proche\n4. reprends leurs mots dans tes missions\n5. vérifie que chaque exigence apparaît\n\nUn CV par annonce.",
+    "bluesky": "Ton CV en 10 minutes, adapté à l'annonce :\n\n1. surligne les mots-clés de l'offre\n2. reprends l'intitulé exact du poste en titre\n3. remonte l'expérience la plus proche\n4. réutilise leur vocabulaire dans tes missions\n5. vérifie que chaque exigence apparaît\n\nMême parcours, autre angle.",
+    "threads": "Le même CV pour 50 offres, c'est rarement 50 réponses.\n\nL'adapter prend 10 minutes :\n1. Surligne les compétences et outils cités dans l'annonce.\n2. Mets l'intitulé exact du poste en titre de CV.\n3. Remonte l'expérience qui colle le plus.\n4. Reprends leurs mots dans tes missions, sans copier-coller.\n5. Vérifie que chaque exigence apparaît quelque part.\n\nTon parcours reste le même, c'est l'angle qui change.",
+    "linkedin": "Un CV générique, c'est un CV qui ne parle à personne.\n\nAdapter son CV à une annonce prend 10 minutes. La méthode :\n\n1. Surligne les compétences, outils et qualités cités dans l'annonce.\n2. Reprends l'intitulé exact du poste en titre de ton CV.\n3. Remonte l'expérience la plus proche de ce qui est demandé.\n4. Reformule tes missions avec le vocabulaire de l'annonce, sans copier-coller.\n5. Vérifie que chaque exigence apparaît au moins une fois.\n\nTon parcours ne change pas. Ce qui change, c'est ce que tu mets en avant.\n\nEt toi, tu adaptes ton CV à chaque candidature ?\n\n#CV #Candidature #RechercheDEmploi",
+    "linkedin_comment": "Sur jobnow.fr tu peux comparer ton CV avec l'annonce avant d'envoyer.",
+    "facebook_post": "Tu envoies le même CV à toutes les offres ? Voilà comment l'adapter en 10 minutes 👇\n\n1️⃣ Surligne les compétences et outils cités dans l'annonce.\n2️⃣ Mets l'intitulé exact du poste en titre de ton CV.\n3️⃣ Remonte l'expérience la plus proche de ce qui est demandé.\n4️⃣ Reprends les mots de l'annonce dans tes missions, sans copier-coller.\n5️⃣ Vérifie que chaque exigence apparaît quelque part.\n\nSur JobNow, tu compares ton CV avec l'annonce et tu l'exportes en PDF ou en Word.\n👉 jobnow.fr",
+    "facebook_reel": "Adapte ton CV à chaque annonce en 10 minutes ⏱️ Même parcours, autre angle.\n\nCompare ton CV avec l'annonce sur jobnow.fr",
+    "facebook_reel_title": "Adapte ton CV à chaque annonce",
+    "instagram_post": "Le même CV pour toutes les offres, c'est rarement une bonne idée 👇\n\nLa méthode pour adapter ton CV à une annonce en 10 minutes. Enregistre-la pour ta prochaine candidature.\n\nSur JobNow, tu compares ton CV avec l'annonce et tu l'exportes en PDF ou Word : jobnow.fr\n\n#cv #candidature #rechercheemploi #emploi #conseilscv",
+    "instagram_reel": "Adapte ton CV à chaque annonce en 10 minutes ⏱️ Même parcours, autre angle. Enregistre pour ta prochaine candidature.\n\njobnow.fr\n\n#cv #emploi #candidature #conseilscv",
+    "tiktok": "Adapter ton CV à une annonce en 10 minutes, la méthode en 5 étapes ✅ #cv #emploi #candidature #conseilscv #rechercheemploi",
+    "tiktok_title": "Adapte ton CV à chaque annonce",
+    "youtube_long_title": "Adapter son CV à une annonce en 10 minutes (méthode en 5 étapes)",
+    "youtube_long_intro": "Le même CV pour toutes les offres, c'est rarement une bonne idée. Voici comment l'adapter à chaque annonce en 10 minutes.",
+    "youtube_long_outro": "Compare ton CV avec l'annonce et exporte-le en PDF ou Word : https://jobnow.fr\n\n#cv #candidature #rechercheemploi",
+    "youtube_tags": [
+     "cv",
+     "adapter son cv",
+     "offre d'emploi",
+     "candidature",
+     "recherche d'emploi",
+     "conseils cv",
+     "jobnow"
+    ],
+    "youtube_short_title": "Adapte ton CV à chaque annonce en 10 min #shorts",
+    "youtube_short_text": "Adapte ton CV à chaque annonce en 10 minutes. Compare ton CV avec l'annonce sur https://jobnow.fr\n\n#cv #candidature #emploi",
+    "pinterest_title": "Adapter son CV à une annonce en 10 minutes",
+    "pinterest_text": "La méthode en 5 étapes pour adapter ton CV à chaque offre d'emploi : mots-clés, intitulé du poste, expérience mise en avant, vocabulaire de l'annonce, exigences cochées. Compare ton CV avec l'annonce sur jobnow.fr"
+   }
+  }
+ ]
+}

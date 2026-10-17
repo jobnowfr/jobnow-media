@@ -1,0 +1,235 @@
+{
+ "date": "AAAA-MM-JJ",
+ "themes": [
+  {
+   "key": "A",
+   "category": "mythes",
+   "topic": "mythes-photo-et-infos-perso",
+   "kick": "MYTHE",
+   "style": "cahier",
+   "eyebrow": "Idées reçues · infos perso",
+   "sub": "Photo, âge, famille, adresse : ce qui est obligatoire en France, et ce qui ne l'est pas.",
+   "v_hook": "Photo obligatoire sur un CV ? [[Faux.]]",
+   "v_hook_sub": "4 idées reçues sur les infos perso.",
+   "w_title": "4 idées reçues sur [[les infos perso]] du CV",
+   "thumb_text": "Photo, âge…\n[[obligatoires]]\nsur le CV ?",
+   "pin_headline": "Photo, âge, famille : [[obligatoire]] sur un CV ?",
+   "pin_foot": "Ce qui est obligatoire en France, ou pas",
+   "cta_headline": "Un CV propre,\n[[sans y passer la soirée.]]",
+   "chips": [
+    "Aperçu A4 en direct",
+    "14 modèles",
+    "PDF et Word"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "« La photo est obligatoire »",
+     "short": "« La photo est obligatoire »",
+     "body": "Aucune règle n'oblige à mettre une photo sur un CV en France. C'est un usage, pas une obligation.",
+     "body_short": "Aucune règle ne l'impose. C'est un usage.",
+     "example": {
+      "bad": "Sans photo, pas de réponse",
+      "good": "Aucune loi ne l'impose",
+      "badtag": "MYTHE",
+      "goodtag": "RÉALITÉ"
+     },
+     "fix": "Si tu en mets une : récente, nette, fond neutre, tenue adaptée au poste.",
+     "fixlab": "EN VRAI",
+     "fix_short": "Facultative. Si tu en mets une, nette et sobre.",
+     "why": "Beaucoup de CV français ont une photo, d'où l'idée qu'elle est exigée. En réalité, c'est ton choix. Si tu n'as pas de photo correcte, mieux vaut t'en passer."
+    },
+    {
+     "n": "02",
+     "title": "« Il faut indiquer son âge »",
+     "short": "« Il faut indiquer son âge »",
+     "body": "Ni l'âge ni la date de naissance ne sont obligatoires. L'âge fait partie des critères de discrimination interdits.",
+     "body_short": "Ni l'âge ni la date de naissance ne sont obligatoires.",
+     "example": {
+      "bad": "Âge obligatoire",
+      "good": "Âge facultatif",
+      "badtag": "MYTHE",
+      "goodtag": "RÉALITÉ"
+     },
+     "fix": "Tu peux l'enlever sans souci. Ton expérience parle mieux pour toi.",
+     "fixlab": "EN VRAI",
+     "fix_short": "Tu peux l'enlever sans souci.",
+     "why": "Le Code du travail interdit d'écarter un candidat en raison de son âge. Le recruteur n'en a pas besoin pour juger tes compétences : tu choisis de l'indiquer ou non."
+    },
+    {
+     "n": "03",
+     "title": "« Il faut dire si on est marié ou parent »",
+     "short": "« Situation familiale obligatoire »",
+     "body": "Marié, pacsé, enfants : rien de tout ça n'est obligatoire. La situation de famille ne doit pas peser sur un recrutement.",
+     "body_short": "Marié, pacsé, enfants : rien de tout ça n'est obligatoire.",
+     "example": {
+      "bad": "Marié, 2 enfants",
+      "good": "Ligne facultative",
+      "badtag": "MYTHE",
+      "goodtag": "RÉALITÉ"
+     },
+     "fix": "Supprime la ligne et garde la place pour une compétence utile.",
+     "fixlab": "EN VRAI",
+     "fix_short": "Supprime la ligne, garde la place pour le reste.",
+     "why": "La situation de famille fait partie des critères que la loi interdit de prendre en compte. Cette ligne n'aide pas le recruteur à savoir si tu sais faire le travail."
+    },
+    {
+     "n": "04",
+     "title": "« Adresse complète obligatoire »",
+     "short": "« Adresse complète obligatoire »",
+     "body": "Le recruteur te contacte par mail ou par téléphone. Ta ville suffit pour qu'il situe la distance.",
+     "body_short": "Ta ville suffit pour situer la distance.",
+     "example": {
+      "bad": "12 rue des Lilas, 69003 Lyon",
+      "good": "Lyon (69)",
+      "badtag": "TROP",
+      "goodtag": "SUFFIT"
+     },
+     "fix": "Ville et département, plus ton téléphone et ton mail.",
+     "fixlab": "EN VRAI",
+     "fix_short": "Ville, téléphone, mail. C'est tout.",
+     "why": "La ville aide le recruteur à savoir si le trajet est réaliste. Le numéro de rue n'apporte rien de plus, et tu gardes une info personnelle pour toi."
+    }
+   ],
+   "captions": {
+    "x": "Photo, âge, situation familiale sur un CV : rien de tout ça n'est obligatoire en France.\n\nEt l'adresse complète ? Ta ville suffit.\n\nGarde la place pour ce qui montre ce que tu sais faire.\n#CV",
+    "bluesky": "4 idées reçues sur les infos perso du CV :\n\n• la photo est obligatoire : non, c'est un usage\n• il faut donner son âge : non\n• il faut dire si on est marié ou parent : non\n• il faut l'adresse complète : ta ville suffit\n\nCe que tu sais faire compte plus que tout ça.",
+    "threads": "Petite mise au point sur les infos perso du CV en France.\n\nLa photo ? Facultative. Si tu en mets une, récente et sobre.\nTon âge ? Pas obligatoire, ta date de naissance non plus.\nMarié, pacsé, enfants ? Ça ne regarde pas le recruteur.\nL'adresse complète ? Ta ville suffit.\n\nTu as encore une de ces lignes sur ton CV ?",
+    "linkedin": "Photo, âge, situation familiale : on croit souvent que le CV doit tout dire.\n\nEn France, ce n'est pas le cas. 4 idées reçues à corriger :\n\n1. « La photo est obligatoire »\nAucune règle ne l'impose. C'est un usage courant, pas une obligation. Si tu en mets une : récente, nette, fond neutre.\n\n2. « Il faut indiquer son âge »\nNi l'âge ni la date de naissance ne sont obligatoires. L'âge fait partie des critères de discrimination interdits par le Code du travail.\n\n3. « Il faut préciser sa situation familiale »\nMarié, pacsé, enfants : la loi interdit d'en tenir compte dans un recrutement. Cette ligne peut disparaître.\n\n4. « Il faut son adresse complète »\nTa ville et ton département suffisent pour situer le trajet. Téléphone et mail font le reste.\n\nLa place gagnée, garde-la pour ce qui montre ce que tu sais faire.\n\nTu mets encore ta date de naissance sur ton CV ?\n\n#CV #RechercheDEmploi #Recrutement",
+    "linkedin_comment": "Pour voir en direct ce que ça donne sur une page A4 : jobnow.fr",
+    "facebook_post": "Photo obligatoire sur un CV ? Pas du tout 🙅\n\n4 idées reçues sur les infos perso :\n\n📸 La photo : facultative. Si tu en mets une, récente et sobre.\n🎂 L'âge : pas obligatoire, ta date de naissance non plus.\n💍 La situation familiale : marié ou parent, ça ne regarde pas le recruteur.\n🏠 L'adresse : ta ville suffit.\n\nTu avais laquelle sur ton CV ?\n\n👉 jobnow.fr\n#CV",
+    "facebook_reel": "Photo, âge, situation familiale… Qu'est-ce qui est vraiment obligatoire sur un CV ? Réponse en 4 idées reçues 👇\n\njobnow.fr",
+    "facebook_reel_title": "Photo et âge sur le CV : obligatoires ?",
+    "instagram_reel": "« Sans photo, ton CV ne sera pas lu. » Faux. 4 idées reçues sur les infos perso du CV 👇\n\nTon CV sur jobnow.fr\n\n#cv #emploi #conseilscv #rechercheemploi #ideesrecues",
+    "tiktok": "Photo, âge, situation familiale : obligatoire sur un CV ? Spoiler : non 🙅 #cv #emploi #conseilscv #rechercheemploi",
+    "tiktok_title": "Photo et âge sur le CV : obligatoires ?",
+    "youtube_long_title": "Photo, âge, situation familiale : qu'est-ce qui est obligatoire sur un CV ?",
+    "youtube_long_intro": "Photo, âge, situation familiale, adresse : beaucoup pensent que le CV doit tout dire. Voici 4 idées reçues sur les infos personnelles, et ce qu'il en est vraiment en France.",
+    "youtube_long_outro": "Crée ton CV avec aperçu A4 en direct et export PDF ou Word : https://jobnow.fr\nUn CV propre, sans y passer la soirée.\n\n#cv #rechercheemploi #emploi",
+    "youtube_tags": [
+     "cv",
+     "photo cv",
+     "infos personnelles cv",
+     "âge sur cv",
+     "faire un cv",
+     "conseils cv",
+     "recherche d'emploi",
+     "jobnow"
+    ],
+    "youtube_short_title": "Photo obligatoire sur un CV ? #shorts",
+    "youtube_short_text": "Photo, âge, situation familiale, adresse : 4 idées reçues sur les infos perso du CV. Ton CV sur https://jobnow.fr\n\n#cv #emploi #conseilscv",
+    "pinterest_title": "Photo, âge, famille : ce qui est obligatoire sur un CV",
+    "pinterest_text": "4 idées reçues sur les informations personnelles du CV en France : la photo est facultative, l'âge et la situation familiale ne sont pas obligatoires, et ta ville suffit à la place de l'adresse complète. Crée ton CV avec aperçu A4 en direct sur jobnow.fr"
+   }
+  },
+  {
+   "key": "B",
+   "category": "produit",
+   "topic": "faire-son-cv-sur-jobnow",
+   "kick": "ÉTAPE",
+   "style": "bureau",
+   "eyebrow": "JobNow · pas à pas",
+   "sub": "Tu écris, le modèle s'occupe de la mise en page. Voilà comment ça se passe.",
+   "v_hook": "Dimanche, 23h, tu te bats [[avec les marges]] de ton CV ?",
+   "v_hook_sub": "Fais-le en 5 étapes sur JobNow.",
+   "w_title": "Faire ton CV sur JobNow [[en 5 étapes]]",
+   "thumb_text": "Ton CV\nen [[5 étapes]]\nsur JobNow",
+   "pin_headline": "Faire son CV en [[5 étapes]] avec JobNow",
+   "pin_foot": "Modèle, contenu, aperçu, export",
+   "cta_headline": "Ouvre JobNow,\n[[choisis ton modèle.]]",
+   "chips": [
+    "14 modèles",
+    "Aperçu A4 en direct",
+    "Comparaison avec l'annonce"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "Choisis ton modèle",
+     "short": "Choisis ton modèle",
+     "body": "14 modèles au choix. Prends celui qui te ressemble et qui colle au poste visé.",
+     "body_short": "14 modèles. Prends celui qui colle au poste visé.",
+     "fix": "Pense au recruteur qui va le lire : lisible avant d'être original.",
+     "fix_short": "Lisible avant d'être original.",
+     "why": "Le modèle donne la première impression. Pour un poste en banque ou en cabinet, reste sobre. Pour la com ou le design, tu peux te permettre plus de couleur."
+    },
+    {
+     "n": "02",
+     "title": "Écris ton contenu",
+     "short": "Écris ton contenu",
+     "body": "C'est toi qui écris. JobNow ne rédige pas à ta place, ton CV reste le tien.",
+     "body_short": "C'est toi qui écris, ton CV reste le tien.",
+     "card": "Assistante de direction",
+     "fix": "Commence par le titre du poste visé, puis tes expériences les plus proches.",
+     "fix_short": "Commence par le titre du poste visé.",
+     "why": "Personne ne connaît ton parcours mieux que toi. Tes mots, tes résultats, ton vocabulaire métier : c'est ce que le recruteur veut lire."
+    },
+    {
+     "n": "03",
+     "title": "Vérifie l'aperçu A4 en direct",
+     "short": "Vérifie l'aperçu A4 en direct",
+     "body": "Chaque ligne que tu écris apparaît en direct sur l'aperçu A4.",
+     "body_short": "Ce que tu écris apparaît en direct sur l'aperçu A4.",
+     "fix": "Repère ce qui déborde, ce qui est tassé, ce qui manque d'air.",
+     "fix_short": "Repère ce qui déborde ou se tasse.",
+     "why": "Dans un formulaire, impossible de savoir si ton CV tient sur une page. Avec l'aperçu sous les yeux, tu ajustes au fur et à mesure au lieu de tout corriger à la fin."
+    },
+    {
+     "n": "04",
+     "title": "Compare-le avec l'annonce",
+     "short": "Compare-le avec l'annonce",
+     "body": "Avant d'envoyer, compare ton CV avec l'annonce qui t'intéresse.",
+     "body_short": "Compare ton CV avec l'annonce avant d'envoyer.",
+     "fix": "Ajoute ce que l'annonce demande et que tu sais faire, avec tes mots.",
+     "fix_short": "Ajoute ce qui manque, avec tes mots.",
+     "why": "Une annonce dit clairement ce que le recruteur cherche. Comparer, c'est vérifier que ton CV y répond avant qu'il le lise, pas après."
+    },
+    {
+     "n": "05",
+     "title": "Exporte en PDF ou en Word",
+     "short": "Exporte en PDF ou en Word",
+     "body": "Ton CV est prêt : tu l'exportes en PDF ou en Word, selon ce qu'on te demande.",
+     "body_short": "PDF ou Word, selon ce qu'on te demande.",
+     "example": {
+      "bad": "CV_final_v3_OK.pdf",
+      "good": "CV_Prenom_Nom.pdf",
+      "badtag": "NON",
+      "goodtag": "OUI"
+     },
+     "fix": "Le PDF garde ta mise en page partout. Word, seulement si l'offre le demande.",
+     "fix_short": "PDF par défaut, Word si on te le demande.",
+     "why": "Un PDF s'affiche pareil sur tous les écrans. Certaines entreprises ou plateformes demandent un fichier Word : dans ce cas, tu l'as aussi."
+    }
+   ],
+   "captions": {
+    "x": "Faire ton CV sur JobNow :\n\n1. choisis un des 14 modèles\n2. écris ton contenu\n3. vérifie l'aperçu A4 en direct\n4. compare-le avec l'annonce\n5. exporte en PDF ou Word\n\n30 jours à 9,99 €, sans abonnement. jobnow.fr\n#CV",
+    "bluesky": "Ton CV sans te battre avec les marges :\n\n1. un modèle parmi 14\n2. ton contenu, écrit par toi\n3. l'aperçu A4 en direct\n4. la comparaison avec l'annonce\n5. l'export PDF ou Word\n\n9,99 € pour 30 jours, paiement unique. jobnow.fr",
+    "threads": "Dimanche soir, 23h, le CV refuse de tenir sur une page. On connaît.\n\nSur JobNow, ça se passe en 5 étapes :\n1. Tu choisis un modèle parmi 14.\n2. Tu écris ton contenu. Personne ne rédige à ta place.\n3. Tu vois le résultat en direct sur l'aperçu A4.\n4. Tu compares ton CV avec l'annonce.\n5. Tu exportes en PDF ou en Word.\n\n30 jours d'accès à 9,99 €, sans abonnement. jobnow.fr",
+    "linkedin": "Un CV, c'est souvent une soirée entière à se battre avec les marges et les sauts de page.\n\nJobNow a été pensé pour que tu passes ce temps sur le fond. Concrètement, 5 étapes :\n\n1. Choisir un modèle parmi les 14 proposés.\n2. Écrire ton contenu. C'est toi qui rédiges : ton parcours, tes mots, tes résultats.\n3. Vérifier l'aperçu A4 en direct, au fur et à mesure.\n4. Comparer ton CV avec l'annonce visée avant d'envoyer.\n5. Exporter en PDF, ou en Word si l'entreprise le demande.\n\nEt pour savoir ensuite où tu as postulé, il y a aussi le suivi des candidatures.\n\nL'accès : 30 jours à 9,99 €, en paiement unique, sans abonnement.\n\nUn CV propre, sans y passer la soirée.\n\n#CV #RechercheDEmploi #Candidature",
+    "linkedin_comment": "Le lien pour essayer : jobnow.fr",
+    "facebook_post": "Ton CV en 5 étapes, sans te battre avec la mise en page 👇\n\n1️⃣ Choisis un modèle parmi 14.\n2️⃣ Écris ton contenu : c'est toi qui rédiges, ton CV reste le tien.\n3️⃣ Vérifie l'aperçu A4 en direct.\n4️⃣ Compare ton CV avec l'annonce.\n5️⃣ Exporte en PDF ou en Word.\n\n30 jours d'accès à 9,99 €, en paiement unique, sans abonnement.\n👉 jobnow.fr",
+    "facebook_reel": "Dimanche, 23h, les marges de ton CV te résistent ? Voilà comment le faire en 5 étapes sur JobNow 👇\n\njobnow.fr",
+    "facebook_reel_title": "Ton CV en 5 étapes sur JobNow",
+    "instagram_reel": "Les marges de ton CV te résistent encore à 23h ? 😩 Voilà comment le faire en 5 étapes, sans y passer la soirée.\n\njobnow.fr\n\n#cv #creercv #emploi #rechercheemploi #modelecv",
+    "tiktok": "Ton CV en 5 étapes, de la page blanche au PDF 📄 #cv #creercv #emploi #rechercheemploi #modelecv",
+    "tiktok_title": "Ton CV en 5 étapes sur JobNow",
+    "youtube_long_title": "Faire son CV sur JobNow en 5 étapes (du modèle à l'export PDF)",
+    "youtube_long_intro": "Comment faire ton CV sur JobNow, étape par étape : choisir un modèle, écrire ton contenu, vérifier l'aperçu A4 en direct, comparer avec l'annonce et exporter en PDF ou en Word.",
+    "youtube_long_outro": "Accès de 30 jours à 9,99 €, paiement unique, sans abonnement : https://jobnow.fr\nUn CV propre, sans y passer la soirée.\n\n#cv #creercv #rechercheemploi",
+    "youtube_tags": [
+     "cv",
+     "faire un cv",
+     "créer un cv",
+     "modèle de cv",
+     "cv pdf",
+     "cv word",
+     "jobnow"
+    ],
+    "youtube_short_title": "Ton CV en 5 étapes, sans galérer avec la mise en page #shorts",
+    "youtube_short_text": "Modèle, contenu, aperçu A4 en direct, comparaison avec l'annonce, export PDF ou Word. https://jobnow.fr\n\n#cv #creercv #emploi",
+    "pinterest_title": "Faire son CV en 5 étapes avec JobNow",
+    "pinterest_text": "Les 5 étapes pour faire ton CV sur JobNow : choisir un modèle parmi 14, écrire ton contenu, vérifier l'aperçu A4 en direct, comparer avec l'annonce, exporter en PDF ou Word. Accès 30 jours à 9,99 €, sans abonnement, sur jobnow.fr"
+   }
+  }
+ ]
+}
