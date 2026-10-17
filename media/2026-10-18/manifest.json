@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-18",
+ "base_url": "https://raw.githubusercontent.com/jobnowfr/jobnow-media/main/media/2026-10-18",
+ "themes": {
+  "A": {
+   "style": "cahier",
+   "palette": 2,
+   "pin": "pin_A.jpg",
+   "thumb": "thumb_A.jpg",
+   "reel": "reel_A.mp4",
+   "reel_small": "reel_A_720.mp4",
+   "reel_seconds": 39.5,
+   "yt": "yt_A.mp4",
+   "yt_seconds": 121.5,
+   "chapters": [
+    [
+     "0:00",
+     "Intro"
+    ],
+    [
+     "0:14",
+     "Exemple 1 : « J'ai participé à »"
+    ],
+    [
+     "0:32",
+     "Exemple 2 : « Chargé de »"
+    ],
+    [
+     "0:50",
+     "Exemple 3 : « Aidé à »"
+    ],
+    [
+     "1:08",
+     "Exemple 4 : « Bon travail en équipe »"
+    ],
+    [
+     "1:26",
+     "Exemple 5 : ne gonfle pas ton rôle"
+    ],
+    [
+     "1:44",
+     "Récap"
+    ]
+   ]
+  },
+  "B": {
+   "style": "affiche",
+   "palette": 1,
+   "pin": "pin_B.jpg",
+   "thumb": "thumb_B.jpg",
+   "reel": "reel_B.mp4",
+   "reel_small": "reel_B_720.mp4",
+   "reel_seconds": 33.1,
+   "yt": "yt_B.mp4",
+   "yt_seconds": 103.5,
+   "chapters": [
+    [
+     "0:00",
+     "Intro"
+    ],
+    [
+     "0:14",
+     "Astuce 1 : par défaut, envoie un PDF"
+    ],
+    [
+     "0:32",
+     "Astuce 2 : un Word quand on te le demande"
+    ],
+    [
+     "0:50",
+     "Astuce 3 : formulaire en ligne : lis la ligne"
+    ],
+    [
+     "1:08",
+     "Astuce 4 : garde les deux versions prêtes"
+    ],
+    [
+     "1:26",
+     "Récap"
+    ]
+   ]
+  }
+ }
+}

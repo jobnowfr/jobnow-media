@@ -1,0 +1,258 @@
+{
+ "date": "2026-10-18",
+ "themes": [
+  {
+   "key": "A",
+   "category": "avant_apres",
+   "topic": "verbes-d-action",
+   "kick": "EXEMPLE",
+   "style": "cahier",
+   "eyebrow": "Avant / après · expériences",
+   "sub": "« Participé à », « chargé de » : des formules qui cachent ce que tu as vraiment fait.",
+   "v_hook": "« J'ai participé à… » [[Oui, mais à quoi ?]]",
+   "v_hook_sub": "5 formules à réécrire sur ton CV.",
+   "w_title": "Remplace « participé à » par [[des verbes précis]]",
+   "thumb_text": "CV :\n[[5 formules]]\nà rayer",
+   "pin_headline": "« Participé à » : [[5 formules]] à réécrire",
+   "pin_foot": "Des verbes qui montrent ton vrai rôle",
+   "cta_headline": "Tu écris, le modèle met en page.\n[[Sans y passer la soirée.]]",
+   "chips": [
+    "Aperçu A4 en direct",
+    "Comparaison avec l'annonce",
+    "14 modèles"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "« J'ai participé à »",
+     "short": "« J'ai participé à »",
+     "body": "Participer, c'était quoi ? Préparer, animer, coordonner ? Le recruteur ne peut pas deviner ton rôle.",
+     "body_short": "Le recruteur ne peut pas deviner ton rôle exact.",
+     "example": {
+      "bad": "Participé à l'inventaire annuel",
+      "good": "Compté et saisi le stock du rayon",
+      "badtag": "AVANT",
+      "goodtag": "APRÈS"
+     },
+     "fix": "Écris le geste précis que tu faisais, avec un verbe en début de ligne.",
+     "fix_short": "Écris ce que tu faisais, verbe en tête.",
+     "why": "« Participé à » met tout le monde au même niveau, du stagiaire au responsable. Un verbe précis montre ta part du travail et donne au recruteur de quoi te questionner en entretien."
+    },
+    {
+     "n": "02",
+     "title": "« Chargé de »",
+     "short": "« Chargé de »",
+     "body": "« Chargé de l'accueil » décrit un poste. Ça ne dit pas ce que tu faisais au quotidien.",
+     "body_short": "Ça décrit un poste, pas ton quotidien.",
+     "example": {
+      "bad": "Chargé de l'accueil clients",
+      "good": "Accueilli et orienté les clients",
+      "badtag": "AVANT",
+      "goodtag": "APRÈS"
+     },
+     "fix": "Remplace le titre par 2 ou 3 actions concrètes de ta journée type.",
+     "fix_short": "Remplace-le par tes actions concrètes.",
+     "why": "Deux personnes « chargées de l'accueil » peuvent faire des choses très différentes. Les actions que tu cites font la différence et collent mieux aux mots de l'annonce."
+    },
+    {
+     "n": "03",
+     "title": "« Aidé à »",
+     "short": "« Aidé à »",
+     "body": "« Aidé à » réduit ton travail. Si tu as fait une partie toi-même, dis laquelle.",
+     "body_short": "Si tu as fait une partie toi-même, dis laquelle.",
+     "example": {
+      "bad": "Aidé à créer un fichier clients",
+      "good": "Créé le tableau Excel des clients",
+      "badtag": "AVANT",
+      "goodtag": "APRÈS"
+     },
+     "fix": "Garde « aidé » seulement si tu étais vraiment en soutien, et précise sur quoi.",
+     "fix_short": "Dis quelle partie tu as faite toi-même.",
+     "why": "Par modestie, on se sous-vend souvent. Si tu as construit le tableau, écris-le. Si tu étais en appui, précise sur quoi : c'est honnête et bien plus parlant."
+    },
+    {
+     "n": "04",
+     "title": "« Bon travail en équipe »",
+     "short": "« Bon travail en équipe »",
+     "body": "Une qualité posée seule ne prouve rien. Une action précise montre que tu sais travailler avec les autres.",
+     "body_short": "Une qualité seule ne prouve rien. Une action, si.",
+     "example": {
+      "bad": "Bon travail en équipe",
+      "good": "Formé deux vendeurs à la caisse",
+      "badtag": "AVANT",
+      "goodtag": "APRÈS"
+     },
+     "fix": "Transforme chaque qualité en une action que tu as réellement faite.",
+     "fix_short": "Une qualité, une action qui la prouve.",
+     "why": "Presque tout le monde écrit « travail en équipe ». Former un collègue, caler un planning, reprendre un dossier pendant une absence : voilà des preuves qu'un recruteur retient."
+    },
+    {
+     "n": "05",
+     "title": "Ne gonfle pas ton rôle",
+     "short": "Ne gonfle pas ton rôle",
+     "body": "Un verbe fort doit rester vrai. « Dirigé » quand tu as assisté, ça se voit vite en entretien.",
+     "body_short": "Un verbe fort doit rester vrai.",
+     "example": {
+      "bad": "Dirigé le projet",
+      "good": "Préparé les supports du projet",
+      "badtag": "TROP",
+      "goodtag": "JUSTE"
+     },
+     "fix": "Pour chaque verbe, demande-toi si tu peux l'expliquer avec un exemple.",
+     "fixlab": "À VÉRIFIER",
+     "fix_short": "Tu dois pouvoir l'expliquer avec un exemple.",
+     "why": "Le recruteur creuse souvent les lignes qui l'intéressent. Un verbe exagéré te met en difficulté dès la première question. Précis et vrai, c'est plus solide que spectaculaire."
+    }
+   ],
+   "captions": {
+    "x": "« Participé à », « chargé de », « aidé à »…\n\nCes formules ne disent pas ce que tu as fait. Remplace-les par l'action réelle :\n\nAVANT : Chargé de l'accueil clients\nAPRÈS : Accueilli et orienté les clients\n\n#CV",
+    "bluesky": "Ton CV dit « participé à » ? Le recruteur ne sait pas ce que tu as fait.\n\nÀ réécrire :\n• participé à → l'action précise\n• chargé de → 2 ou 3 gestes concrets\n• aidé à → la partie que tu as faite\n• travail en équipe → une preuve\n\nEt un verbe fort doit rester vrai.",
+    "threads": "Petit test en 30 secondes 👇\n\nOuvre ton CV et cherche « participé à », « chargé de », « aidé à ».\n\nChaque fois que tu en trouves une, demande-toi : concrètement, je faisais quoi ? Préparer, compter, accueillir, former ?\n\nC'est ce verbe-là qui doit commencer la ligne.\n\nTu en as trouvé combien ?",
+    "linkedin": "« Participé à l'organisation de… »\n\nCette formule revient sur énormément de CV. Le problème : elle ne dit pas ce que tu as fait.\n\n5 réécritures à faire sur tes expériences (l'infographie est à enregistrer) :\n\n1. « Participé à » → le geste précis\nParticipé à l'inventaire devient Compté et saisi le stock du rayon.\n\n2. « Chargé de » → tes actions du quotidien\nChargé de l'accueil devient Accueilli et orienté les clients.\n\n3. « Aidé à » → la partie que tu as faite toi-même\nSi tu as construit le tableau, écris-le.\n\n4. « Travail en équipe » → une preuve\nFormer un collègue en dit plus que la qualité seule.\n\n5. Ne gonfle pas ton rôle\n« Dirigé » quand tu as assisté, ça se voit dès la première question en entretien.\n\nLa bonne question pour chaque ligne : est-ce que je peux l'expliquer avec un exemple ?\n\nQuelle formule tu croises le plus souvent ?\n\n#CV #RechercheDEmploi #ConseilsCV",
+    "linkedin_comment": "Pour réécrire tes expériences et voir le résultat en direct sur une page A4 : jobnow.fr",
+    "facebook_post": "Avant / après sur ton CV ✍️\n\n❌ Participé à l'inventaire\n✅ Compté et saisi le stock du rayon\n\n❌ Chargé de l'accueil clients\n✅ Accueilli et orienté les clients\n\n❌ Bon travail en équipe\n✅ Formé deux vendeurs à la caisse\n\nUn verbe précis montre ton vrai rôle. Et il doit rester vrai : pas de « dirigé » si tu as assisté.\n\nL'infographie complète est à garder sous le coude 📌\n\n👉 jobnow.fr",
+    "facebook_reel": "« J'ai participé à… » Oui, mais à quoi ? 5 formules de CV à réécrire avec des verbes qui montrent ce que tu as fait 👇\n\njobnow.fr",
+    "facebook_reel_title": "« Participé à » : 5 formules à réécrire",
+    "instagram_reel": "Avant : « Chargé de l'accueil ». Après : « Accueilli et orienté les clients ». Même expérience, beaucoup plus clair ✍️ 5 formules à réécrire sur ton CV 👇\n\nTon CV sur jobnow.fr\n\n#cv #conseilscv #emploi #rechercheemploi #avantapres #verbesdaction",
+    "tiktok": "« Participé à » sur ton CV ? Le recruteur se demande ce que tu as vraiment fait ✍️ #cv #conseilscv #emploi #rechercheemploi",
+    "tiktok_title": "« Participé à » : 5 formules à réécrire",
+    "youtube_long_title": "« Participé à », « chargé de » : 5 formules à réécrire sur ton CV (avant / après)",
+    "youtube_long_intro": "« Participé à », « chargé de », « aidé à », « travail en équipe » : ces formules reviennent partout et ne disent pas ce que tu as vraiment fait. Voici 5 exemples avant / après pour les remplacer par des verbes précis, sans gonfler ton rôle.",
+    "youtube_long_outro": "Écris ton CV et vois le rendu en direct sur une page A4 : https://jobnow.fr\nUn CV propre, sans y passer la soirée.\n\n#cv #conseilscv #emploi",
+    "youtube_tags": [
+     "cv",
+     "verbes d'action cv",
+     "rédiger une expérience",
+     "expériences cv",
+     "exemple cv",
+     "conseils cv",
+     "recherche d'emploi",
+     "jobnow"
+    ],
+    "youtube_short_title": "« Participé à » sur ton CV ? Réécris-le #shorts",
+    "youtube_short_text": "5 formules vagues de CV réécrites avec des verbes précis. Ton CV sur https://jobnow.fr\n\n#cv #conseilscv #emploi",
+    "pinterest_title": "Verbes d'action CV : 5 formules à réécrire (avant / après)",
+    "pinterest_text": "Remplace les formules vagues de ton CV par des verbes précis : « participé à » devient le geste réel, « chargé de » devient tes actions du quotidien, « aidé à » devient la partie que tu as faite, « travail en équipe » devient une preuve. Et garde des verbes vrais. Écris ton CV avec aperçu A4 en direct sur jobnow.fr"
+   }
+  },
+  {
+   "key": "B",
+   "category": "produit",
+   "topic": "pdf-ou-word",
+   "kick": "ASTUCE",
+   "style": "affiche",
+   "eyebrow": "JobNow · format du CV",
+   "sub": "PDF par défaut, Word quand on te le demande : le bon format selon la situation.",
+   "v_hook": "L'annonce veut un Word. [[Tu n'as qu'un PDF.]]",
+   "v_hook_sub": "PDF ou Word : lequel envoyer, et quand.",
+   "w_title": "PDF ou Word : [[quel format]] pour ton CV ?",
+   "thumb_text": "PDF\nou [[Word]] ?",
+   "pin_headline": "PDF ou Word : [[lequel envoyer]] ?",
+   "pin_foot": "Le bon format selon la situation",
+   "cta_headline": "Un seul CV,\n[[en PDF et en Word.]]",
+   "chips": [
+    "Export PDF et Word",
+    "Aperçu A4 en direct",
+    "14 modèles"
+   ],
+   "items": [
+    {
+     "n": "01",
+     "title": "Par défaut, envoie un PDF",
+     "short": "Par défaut, un PDF",
+     "body": "Le PDF garde ta mise en page telle quelle, sur ordinateur comme sur téléphone. C'est le choix le plus sûr.",
+     "body_short": "Ta mise en page reste intacte, sur tous les écrans.",
+     "example": {
+      "bad": "Un .docx qui se décale",
+      "good": "Un .pdf qui reste net",
+      "badtag": "RISQUÉ",
+      "goodtag": "SÛR"
+     },
+     "fix": "Exporte en PDF, puis ouvre le fichier une fois pour vérifier que tout est en place.",
+     "fix_short": "Exporte en PDF, puis ouvre-le pour vérifier.",
+     "why": "Un fichier Word peut s'afficher autrement selon le logiciel ou la version : police remplacée, page qui déborde. Le PDF fige le rendu, le recruteur voit ce que tu as préparé."
+    },
+    {
+     "n": "02",
+     "title": "Un Word quand on te le demande",
+     "short": "Un Word si on le demande",
+     "body": "Certaines annonces, agences ou cabinets demandent un fichier Word, par exemple pour l'adapter à leur format.",
+     "body_short": "Certains recruteurs demandent un Word pour le retravailler.",
+     "example": {
+      "bad": "Demandé : Word. Envoyé : PDF",
+      "good": "Demandé : Word. Envoyé : Word",
+      "badtag": "NON",
+      "goodtag": "OUI"
+     },
+     "fix": "Lis la consigne de l'annonce et envoie exactement le format demandé.",
+     "fixlab": "EN VRAI",
+     "fix_short": "Envoie exactement le format demandé.",
+     "why": "Un cabinet peut avoir besoin de modifier ton CV ou de l'importer dans ses outils. Si la consigne dit Word, un PDF lui complique la tâche. La consigne passe avant l'habitude."
+    },
+    {
+     "n": "03",
+     "title": "Formulaire en ligne : lis la ligne",
+     "short": "Formulaire : lis la ligne",
+     "body": "Sur un site de candidature, les formats acceptés sont souvent écrits près du bouton d'envoi.",
+     "body_short": "Les formats acceptés sont souvent écrits près du bouton.",
+     "example": {
+      "bad": "Déposer sans regarder",
+      "good": "Lire « formats acceptés »",
+      "badtag": "NON",
+      "goodtag": "OUI"
+     },
+     "fix": "PDF et Word acceptés ? Prends le PDF. Sinon, suis la liste indiquée.",
+     "fixlab": "À VÉRIFIER",
+     "fix_short": "Les deux acceptés ? Prends le PDF.",
+     "why": "Un fichier refusé par un formulaire, c'est du temps perdu, parfois au dernier moment. Quelques secondes pour lire les formats acceptés t'évitent de tout recommencer."
+    },
+    {
+     "n": "04",
+     "title": "Garde les deux versions prêtes",
+     "short": "Les deux versions prêtes",
+     "body": "Sur JobNow, le même CV s'exporte en PDF et en Word. Rien à refaire quand le format demandé change.",
+     "body_short": "Sur JobNow, le même CV s'exporte en PDF et en Word.",
+     "example": {
+      "bad": "Tout refaire dans Word",
+      "good": "Export PDF ou Word",
+      "badtag": "AVANT",
+      "goodtag": "AVEC JOBNOW"
+     },
+     "fix": "Nomme-les clairement : CV-Prenom-Nom.pdf et CV-Prenom-Nom.docx.",
+     "fix_short": "Un nom clair : CV-Prenom-Nom.",
+     "why": "Refaire ton CV dans un autre logiciel parce qu'on te demande un Word, c'est une soirée perdue. Avec les deux exports, tu choisis le format au moment d'envoyer."
+    }
+   ],
+   "captions": {
+    "x": "PDF ou Word pour ton CV ?\n\nPDF par défaut : ta mise en page ne bouge pas.\nWord si l'annonce ou le cabinet le demande.\nFormulaire en ligne : lis les formats acceptés.\n\nLe détail en vidéo 👇\n#CV",
+    "bluesky": "PDF ou Word pour envoyer ton CV ?\n\nPar défaut, le PDF : la mise en page reste la même sur tous les écrans.\n\nSi l'annonce demande un Word, envoie un Word. La consigne passe avant l'habitude.\n\nEt sur un formulaire en ligne, lis la ligne « formats acceptés » avant de déposer.",
+    "threads": "Scène classique : tu as peaufiné ton CV en PDF, et l'annonce demande « CV au format Word ».\n\nPas de panique. La règle est simple :\n\nPDF par défaut, parce qu'il s'affiche pareil partout.\nWord quand on te le demande, souvent pour que le recruteur puisse l'adapter.\n\nSur JobNow, le même CV s'exporte dans les deux formats. Tu choisis au moment d'envoyer.\n\nTu envoies quoi, toi, d'habitude ?",
+    "linkedin": "« Merci de nous transmettre votre CV au format Word. »\n\nEt toi, tu n'as qu'un PDF. Ça arrive plus souvent qu'on ne croit.\n\nPDF ou Word : 4 repères simples (infographie à enregistrer) :\n\n1. Par défaut, le PDF\nLa mise en page reste identique sur ordinateur comme sur téléphone. Ouvre le fichier une fois avant d'envoyer.\n\n2. Word quand on te le demande\nCertaines agences ou certains cabinets veulent un fichier modifiable, par exemple pour l'adapter à leur format. La consigne passe avant l'habitude.\n\n3. Formulaire en ligne\nLes formats acceptés sont souvent écrits près du bouton d'envoi. Les deux sont acceptés ? Prends le PDF.\n\n4. Garde les deux versions prêtes\nSur JobNow, le même CV s'exporte en PDF et en Word. Un nom clair pour chaque fichier : CV-Prenom-Nom.\n\nPDF ou Word, tu envoies quoi en général ?\n\n#CV #Candidature #RechercheDEmploi",
+    "linkedin_comment": "Pour exporter le même CV en PDF ou en Word : jobnow.fr",
+    "facebook_post": "PDF ou Word pour ton CV ? 🤔\n\n📄 PDF par défaut : ta mise en page ne bouge pas\n📝 Word si l'annonce ou le cabinet le demande\n🔎 Formulaire en ligne : lis les formats acceptés\n🗂️ Garde les deux versions prêtes, avec un nom clair\n\nSur JobNow, le même CV s'exporte en PDF et en Word.\n\nL'infographie est à enregistrer pour ta prochaine candidature 📌\n\n👉 jobnow.fr",
+    "facebook_reel": "L'annonce demande un Word et tu n'as qu'un PDF ? 😬 PDF ou Word : lequel envoyer, et quand 👇\n\njobnow.fr",
+    "facebook_reel_title": "CV : PDF ou Word, lequel envoyer ?",
+    "instagram_reel": "PDF ou Word ? 📄📝 La réponse dépend de la situation. 4 repères pour envoyer ton CV dans le bon format 👇\n\nExport PDF et Word sur jobnow.fr\n\n#cv #candidature #emploi #rechercheemploi #conseilscv",
+    "tiktok": "Ton CV, tu l'envoies en PDF ou en Word ? 📄 Ça dépend, et voilà comment choisir #cv #candidature #emploi #conseilscv #rechercheemploi",
+    "tiktok_title": "CV : PDF ou Word, lequel envoyer ?",
+    "youtube_long_title": "CV en PDF ou en Word : lequel envoyer, et quand ?",
+    "youtube_long_intro": "PDF ou Word pour envoyer ton CV ? Le PDF garde ta mise en page, mais certaines annonces demandent un fichier Word. Voici 4 repères pour choisir le bon format selon la situation : candidature par mail, agence ou cabinet, formulaire en ligne.",
+    "youtube_long_outro": "Exporte le même CV en PDF ou en Word avec JobNow : https://jobnow.fr\nUn CV propre, sans y passer la soirée.\n\n#cv #candidature #emploi",
+    "youtube_tags": [
+     "cv pdf ou word",
+     "format cv",
+     "envoyer son cv",
+     "cv word",
+     "cv pdf",
+     "candidature",
+     "conseils cv",
+     "jobnow"
+    ],
+    "youtube_short_title": "CV : PDF ou Word ? #shorts",
+    "youtube_short_text": "PDF par défaut, Word quand on te le demande. 4 repères pour envoyer ton CV dans le bon format. Export PDF et Word sur https://jobnow.fr\n\n#cv #candidature #emploi",
+    "pinterest_title": "CV en PDF ou en Word : lequel envoyer ?",
+    "pinterest_text": "Quel format pour envoyer ton CV ? Le PDF par défaut, car la mise en page reste identique partout. Un fichier Word quand l'annonce, l'agence ou le cabinet le demande. Sur un formulaire en ligne, lis les formats acceptés. Et garde les deux versions prêtes avec un nom clair. Export PDF et Word sur jobnow.fr"
+   }
+  }
+ ]
+}
